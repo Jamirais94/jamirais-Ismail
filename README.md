@@ -16,8 +16,8 @@ The original source code was written in 2012 and is maintained in Sourceforge, h
 
 ### Github Repository ###
 
-Safeframe code is being mirrored on Github by [Wanda](http://wanda.io) here:
+Safeframe code is being mirrored on Github by [Ad.js](http://adjs.io) here:
 
-[http://github.com/wanda/safeframe](http://github.com/wanda/safeframe)
+[http://github.com/adjs/safeframe](http://github.com/adjs/safeframe)
 
-Wanda makes an easy to use ad library where both advertisers and publishers can take advantage of the SafeFrame standard.
+Ad.js makes an easy to use ad library where both advertisers and publishers can take advantage of the SafeFrame standard.
